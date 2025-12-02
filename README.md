@@ -18,18 +18,19 @@
 
 ### 🔥 Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USThienPhu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USThienPhu&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USThienPhu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USThienPhu&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=USThienPhu&theme=tokyonight" />
 </p>
+
 
 ---
 
